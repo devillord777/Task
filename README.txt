@@ -1,3 +1,4 @@
+Before using need create database!!!
 In file api.php need change:
 1. $servername
 2. $dbname
